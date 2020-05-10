@@ -11,7 +11,7 @@ mass_e = 9.11*(10**-31)
 charge_e = -1.6*(10**-19)
 c = 3*(10**8)
 epp0 = 8.85*(10**-12)
-
+dog
 def modulus(lst):
     mod = np.sqrt((lst[0]**2)+(lst[1]**2)+(lst[2]**2))
     return mod
